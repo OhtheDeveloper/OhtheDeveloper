@@ -14,7 +14,6 @@
 
 - [User Experience Design, Flatiron]
 - [Responsive Web Design, freeCodeCamp]
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
 <h2> 🤳 Connect with me:</h2>
 
